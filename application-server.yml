@@ -1,6 +1,9 @@
 server:
   port: 1010
 
+app:
+  name: Microservice Application
+
 
 
 eureka:
